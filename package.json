@@ -1,8 +1,8 @@
 {
   "name": "rgb",
   "theme": "ui",
-  "version": "0.0.2",
-  "description": "RGB adalah suatu model warna yang terdiri atas 3 buah warna: merah, hijau, dan biru, yang ditambahkan dengan berbagai cara untuk menghasilkan bermacam-macam warna.",
+  "version": "0.1.0",
+  "description": "RGB adalah suatu model warna yang terdiri atas 3 buah warna",
   "keywords": [
     "rgb",
     "theme"
