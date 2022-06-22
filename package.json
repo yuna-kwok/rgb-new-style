@@ -1,7 +1,7 @@
 {
-  "name": "rgb",
+  "name": "rgb-new-style",
   "theme": "ui",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "RGB adalah suatu model warna yang terdiri atas 3 buah warna",
   "keywords": [
     "rgb",
